@@ -1,4 +1,9 @@
+TODOS: 
 
+DEPLOY TO HEROKU
+MODIFY AND COMPLETE README
+FIX COMMENT FUNCTION
+FIX ARTICLE IMAGES
 
 
 9. **NOTE**: If you want to earn complete credit for your work, you must use all six of these packages in your assignment.
