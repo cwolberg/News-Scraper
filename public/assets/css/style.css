@@ -1,0 +1,83 @@
+body {
+  background-color:black;
+}
+
+.navbar{
+  background-color: #fff200;
+}
+
+.navbar-brand{
+color:black;
+}
+
+.text{
+  color:black;
+  }
+
+.card-header{
+    color: #fff200;
+    background-color: black;
+  }
+
+.background-image {
+  height: 350px;
+  background-image: url(../img/background.jpg);
+  background-size: cover;
+}
+
+.title {
+  padding-top: 100px;
+  color: white;
+}
+
+h1, h3 {
+  text-shadow: 3px 2px black;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+h3 {
+  font-size: 35px;
+}
+
+#wrapper {
+  width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 5%;
+}
+
+#headlines {
+  display: inline-block;
+  overflow: auto;
+  width: 60%;
+  height: 700px;
+}
+
+#notes {
+  float: right;
+  width: 30%;
+}
+
+textarea,
+input {
+  display: block;
+  width: 100%;
+  background-color: white;
+}
+
+input {
+  height: 36px;
+  font-size: 24px;
+}
+
+textarea {
+  height: 200px;
+  font-size: 18px;
+}
+
+.footer {
+  font-size: 14px;
+}
