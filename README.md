@@ -3,6 +3,16 @@
 
 This app will scrape stories from Vox News and display them for the user. Each scraped article is saved to the application database. The app scrapes and displays the headline, author summary, and article url for the user. It also allows the user to save and view favorite articles
 
+
+# Link to Demo
+
+[link to Demo!](https://news-scraper-cw.herokuapp.com/)
+
+
+# App Preview
+![App Preview](public/assets/img/scraper.png)
+
+
 ## File Structure
 
 ```
@@ -29,7 +39,6 @@ This app will scrape stories from Vox News and display them for the user. Each s
 └── README.md
 └── server.js
 ```
-![App Preview](public/assets/img/scraper.png)
 
 
 ### Dependancies
