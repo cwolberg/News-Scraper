@@ -54,4 +54,4 @@ FIX COMMENTS
 FIX ARTICLE IMAGES
 
 
-[!Scrape data (images scraiped but not displayed)](public/assets/img/scraped.png)]()
+[!Scrape data ,images scraiped but not displayed](public/assets/img/scraped.png)]()
