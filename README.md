@@ -29,7 +29,7 @@ This app will scrape stories from Vox News and display them for the user. Each s
 └── README.md
 └── server.js
 ```
-[!App Preview](public/assets/img/scraper.png)]()
+![App Preview](public/assets/img/scraper.png)
 
 
 ### Dependancies
@@ -54,4 +54,4 @@ FIX COMMENTS
 FIX ARTICLE IMAGES
 
 
-[!Scrape data ,images scraiped but not displayed](public/assets/img/scraped.png)]()
+![Scrape data ,images scraiped but not displayed](public/assets/img/scraped.png)
